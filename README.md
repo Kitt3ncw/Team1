@@ -2,13 +2,15 @@
 
 ## 📌 What We're Doing
 
-Our project is based on an AI-powered racing car game. We aim to enhance the gameplay experience by introducing **gold coin collection mechanics** and **the ability for cars to move backward**.
+Our project is based on an AI-powered racing car game. We aim to enhance the gameplay experience by introducing **gold coin collection mechanics** , **the ability for cars to move backward** and **the function that upgrade the vehicle**.
 
 ### Key Features:
 - 💰 **Coin Collection**: Players can collect coins while racing. A player wins by either:
   - Completing a full lap, **or**
-  - Collecting **10 coins**.
+  - Collecting **Target coins**.
 - 🔁 **Backward Movement**: To prevent players from getting stuck at borders or tight spots, we added the ability for cars to move in reverse.
+- 🚗 **Vehicle upgrade**
+  - Use the coin to upgrade the vehicle!
 
 These additions aim to make the game more dynamic, user-friendly, and fun.
 
@@ -16,24 +18,28 @@ These additions aim to make the game more dynamic, user-friendly, and fun.
 
 ## 🎯 Why We're Doing This
 
-The original AI racing car game is well-designed and fun to play. However, we believe the experience can be further improved. By allowing players to **collect coins** and **reverse their car**, we provide:
+The original AI racing car game is well-designed and fun to play. However, we believe the experience can be further improved. By allowing players to **collect coins**, **reverse their car** and **upgrade the vehicle**, we provide:
 
 - More **gameplay flexibility**
 - A new layer of **challenge and reward**
-- Better **user engagement**
+- Better **Player engagement**
 
 We are excited to experiment with these features and polish the racing experience!
 
 ---
 
+## 📎 The Game Design
+![The Game Design](./images/Figma.png)
+
+
 ## 👥 Team & Task Division
 
 | Team Member         | Responsibility                                              |
 |---------------------|-------------------------------------------------------------|
-| **Cassie**  | Implemented the **car reversing** feature and **coin system** |
+| **Cassie**  | Implemented the **car reversing** feature, **Program description**  and **project prototype** |
 | **Alice**           | Designed and created the **final presentation (PowerPoint)** |
-| **Sylvia**          | Developed and tested the **coin collection logic**           |
-| **Angela**          | Built the **project prototype** and implemented **coin behavior** |
+| **Sylvia**          | Developed and tested the **Program description**           |
+| **Angela**          | Built the **coin system**|
 
 ---
 
