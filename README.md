@@ -36,10 +36,11 @@ We are excited to experiment with these features and polish the racing experienc
 
 | Team Member         | Responsibility                                              |
 |---------------------|-------------------------------------------------------------|
-| **Cassie**  | Implemented the **car reversing** feature, **Program description**  and **project prototype** |
+| **Cassie**  | Implemented the **Car Reversing** feature, **Program description**  and **project prototype** |
+| **Sylvia**          | Developed and tested the **Program description** Implemented the **Button Setting**          |
+| **Angela**          | Built the **Gameplay Mode**|
 | **Alice**           | Designed and created the **final presentation (PowerPoint)** |
-| **Sylvia**          | Developed and tested the **Program description**           |
-| **Angela**          | Built the **coin system**|
+
 
 ---
 
