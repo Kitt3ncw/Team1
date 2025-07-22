@@ -109,10 +109,11 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CROSS_PLATFORM_INPUT
+-define:DOTWEEN
 -define:SERVICES_SDK_CORE_ENABLED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/Users/feiyangchenwu/Documents/Onsite科研/Team1/Unity-AI-Racing-cars-with-waypoints/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/feiyangchenwu/Documents/Onsite科研/Unity-AI-Racing-cars-with-waypoints/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"/Users/feiyangchenwu/Documents/Onsite科研/unity安装包/2021.3.27f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Users/feiyangchenwu/Documents/Onsite科研/unity安装包/2021.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Users/feiyangchenwu/Documents/Onsite科研/unity安装包/2021.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"

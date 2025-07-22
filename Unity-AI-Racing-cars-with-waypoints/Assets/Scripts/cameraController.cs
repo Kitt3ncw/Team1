@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using DG.Tweening;
 using UnityEngine;
 
 public class cameraController : MonoBehaviour {
@@ -13,8 +15,15 @@ public class cameraController : MonoBehaviour {
 	public float zoomRatio = 0.5f;
 	public float defaultFOV = 60f;
 
+	private float OriginalDistance = 0;
 	//Private Variables
 	Vector3 rotationVector;
+
+
+	private void Start()
+	{
+		OriginalDistance = distance;
+	}
 
 	void LateUpdate(){
 		if(car != null){
@@ -51,5 +60,17 @@ public class cameraController : MonoBehaviour {
 			float acc = car.GetComponent<Rigidbody>().velocity.magnitude;
 			GetComponent<Camera>().fieldOfView = defaultFOV + acc * zoomRatio * Time.deltaTime;
 		}
+	}
+
+	public void SetDistance()
+	{
+		//使用DoTween 设置distance
+		DOTween.To(() => distance, x => distance = x, OriginalDistance * 2f, 1f).SetEase(Ease.OutQuad);
+	}
+	
+	public void ResetDistance()
+	{
+		//使用DoTween 恢复distance
+		DOTween.To(() => distance, x => distance = x, OriginalDistance, 0.8f).SetEase(Ease.OutQuad);
 	}
 }

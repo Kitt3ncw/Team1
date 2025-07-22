@@ -16,7 +16,7 @@ public class LastWaypoint : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		GetIndividualLap.lapdone = currentLap;
-		Debug.Log(currentWayPoint);
+		//Debug.Log(currentWayPoint);
 	}
 	public void OnTriggerEnter(Collider other) {
 		string otherTag = other.gameObject.tag;
