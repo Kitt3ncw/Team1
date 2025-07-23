@@ -16,17 +16,6 @@ These additions aim to make the game more dynamic, user-friendly, and fun.
 
 ---
 
-## 🎯 Why We're Doing This
-
-The original AI racing car game is well-designed and fun to play. However, we believe the experience can be further improved. By allowing players to **collect coins**, **reverse their car** and **upgrade the vehicle**, we provide:
-
-- More **gameplay flexibility**
-- A new layer of **challenge and reward**
-- Better **Player engagement**
-
-We are excited to experiment with these features and polish the racing experience!
-
----
 
 ## 📎 The Game Design
 ![The Game Design](./images/Figma.png)
@@ -44,35 +33,17 @@ We are excited to experiment with these features and polish the racing experienc
 
 ---
 
-## 🛠️ Technologies Used
-- Unity3D
-- C#
-- Unity Standard Assets
-- GitHub for collaboration
 
----
-
-## 📸 Screenshots & Demo (Coming Soon)
-
-Stay tuned for gameplay demo videos and screenshots!
-
----
 
 ## 🔄 How to Run
 
 1. Clone the repo:
 2. Open the project in **Unity Editor** (2020.3+ recommended)
-3. Play the scene `MainScene` to test coin collection and backward driving
+3. Add the file name **"Unity-AI-Racing-cars-with-waypoints 2"** to Unity
+4. Open the document in Unity
 
 ---
 
-## 🚧 Future Improvements
-
-- Add audio effects when coins are collected
-- Introduce more obstacle types
-- Store high scores or coin count across sessions
-
----
 
 ## 📬 Contact
 
