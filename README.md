@@ -1,18 +1,9 @@
 # 🏎️ AI Racing Car Game Enhancement
 
-## 📌 What We're Doing
+## 📌 Program Description
 
-Our project is based on an AI-powered racing car game. We aim to enhance the gameplay experience by introducing **gold coin collection mechanics** , **the ability for cars to move backward** and **the function that upgrade the vehicle**.
+Our game's demo is based on an open-source project from GitHub. Starting from the main menu, players can choose between two different modes. During the game, players and AI opponents start on the same track and race against each other. By overtaking the opponents and securing a better rank, players can win the game. We aim to enhance the gameplay experience by introducing **Fuction of driving backwards** , **the ability for the buttons** and **the multiple gameplay**.
 
-### Key Features:
-- 💰 **Coin Collection**: Players can collect coins while racing. A player wins by either:
-  - Completing a full lap, **or**
-  - Collecting **Target coins**.
-- 🔁 **Backward Movement**: To prevent players from getting stuck at borders or tight spots, we added the ability for cars to move in reverse.
-- 🚗 **Vehicle upgrade**
-  - Use the coin to upgrade the vehicle!
-
-These additions aim to make the game more dynamic, user-friendly, and fun.
 
 ---
 
@@ -28,19 +19,19 @@ These additions aim to make the game more dynamic, user-friendly, and fun.
 | **Cassie**  | Implemented the **Car Reversing** feature, **Program description**  and **project prototype** |
 | **Sylvia**          | Developed and tested the **Program description** Implemented the **Button Setting**          |
 | **Angela**          | Built the **Gameplay Mode**|
-| **Alice**           | Designed and created the **final presentation (PowerPoint)** |
+| **Alice**           | Designed for the future work and created the **final presentation (PowerPoint)** |
 
 
 ---
 
 
 
-## 🔄 How to Run
+## ✅ Getting Started
 
-1. Clone the repo:
+1. Clone the repo to your disk
 2. Open the project in **Unity Editor** (2020.3+ recommended)
-3. Add the file name **"Unity-AI-Racing-cars-with-waypoints 2"** to Unity
-4. Open the document in Unity
+3. Add the file from your disk named **"Unity-AI-Racing-cars-with-waypoints 2"** to Unity
+4. Open this file in Unity
 
 ---
 
