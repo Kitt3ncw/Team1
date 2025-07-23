@@ -9,7 +9,7 @@ Our game's demo is based on an open-source project from GitHub. Starting from th
 
 
 ## 📎 The Game Design
-![The Game Design](./images/Figma.png)
+![The Game Design](./Images&Vedios/Figma.png)
 
 
 ## 👥 Team & Task Division
